@@ -30,7 +30,7 @@ class MyCountFrame extends Frame implements ActionListener
         add(count); 
         Words.setBounds(80,250,50,20);
         add(Words);
-        Characters.setBounds(80,350,90,20);
+        Characters.setBounds(80,280,90,20);
         add(Characters);
         
         setSize(500,500);
